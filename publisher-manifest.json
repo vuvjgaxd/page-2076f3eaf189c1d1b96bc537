@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ae7ee775ee84cdf73397e085",
+  "owner": "vuvjgaxd",
+  "repo": "page-2076f3eaf189c1d1b96bc537",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2076f3eaf189c1d1b96bc537",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8da75f71e0915ffb8e7d3d5a6edd5b8a28e65b48226265dc5bb3f50d20c1c748",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享提供专业的机场订阅和VPN网络加速服务，官方客户端下载，多种流量套餐助力您畅享高速网络。",
+          "AI_DESCRIPTION": "小火箭分享提供专业的机场订阅和VPN网络加速服务，官方客户端下载，多种流量套餐助力您畅享高速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body {\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n    background: linear-gradient(to bottom, #FAF6F0, #F0E6D9);\n    color: #333;\n    margin: 0;\n    padding: 0;\n    line-height: 1.7;\n  }\n  main {\n    max-width: 1100px;\n    margin: 0 auto;\n    padding: 20px;\n  }\n  h1 {\n    color: #FF6F61;\n    font-size: 42px;\n    text-align: center;\n    margin-bottom: 10px;\n    padding: 20px 0;\n  }\n  h2 {\n    color: #FF6F61;\n    font-size: 28px;\n    margin: 40px 0 20px;\n  }\n  h3 {\n    color: #E07A5F;\n    font-size: 22px;\n    margin: 30px 0 15px;\n  }\n  p {\n    margin-bottom: 15px;\n    font-size: 16px;\n  }\n  ul, ol {\n    padding-left: 25px;\n    margin-bottom: 20px;\n  }\n  .btn {\n    background-color: #FF6F61;\n    color: white;\n    padding: 14px 28px;\n    border-radius: 8px;\n    text-decoration: none;\n    display: inline-block;\n    margin: 10px 0;\n    font-size: 16px;\n    transition: background-color 0.3s;\n  }\n  .btn:hover {\n    background-color: #E05A4F;\n  }\n  .plans-grid {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n    gap: 25px;\n    margin: 30px 0;\n  }\n  .plan-card {\n    background: white;\n    border-radius: 12px;\n    padding: 25px;\n    box-shadow: 0 4px 15px rgba(0,0,0,0.1);\n    border: 2px solid #FF6F61;\n  }\n  .plan-card.featured {\n    border-color: #FF6F61;\n    box-shadow: 0 6px 20px rgba(255, 111, 97, 0.3);\n  }\n  .plan-name {\n    font-size: 24px;\n    font-weight: bold;\n    color: #333;\n  }\n  .plan-price {\n    font-size: 28px;\n    color: #FF6F61;\n    margin: 15px 0;\n  }\n  .plan-annual {\n    color: #777;\n    font-size: 14px;\n  }\n  .features {\n    list-style: none;\n    padding: 0;\n  }\n  .features li {\n    margin-bottom: 12px;\n    padding-left: 25px;\n    position: relative;\n  }\n  .features li:before {\n    content: \"✓\";\n    color: #FF6F61;\n    position: absolute;\n    left: 0;\n  }\n  details {\n    background: #FFF;\n    border-radius: 10px;\n    margin-bottom: 15px;\n    overflow: hidden;\n    box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n  }\n  summary {\n    font-weight: bold;\n    padding: 18px 20px;\n    background: #FF6F61;\n    color: white;\n    cursor: pointer;\n    font-size: 18px;\n  }\n  summary::-webkit-details-marker {\n    display: none;\n  }\n  .faq-answer {\n    padding: 18px 20px;\n    color: #555;\n    font-size: 16px;\n  }\n  footer {\n    margin-top: 60px;\n    padding: 30px 0;\n    background: #F0E6D9;\n    text-align: center;\n    font-size: 14px;\n    color: #777;\n  }\n  .footer-links {\n    margin-top: 20px;\n  }\n  .footer-links a {\n    color: #FF6F61;\n    margin: 0 15px;\n    text-decoration: none;\n  }\n  @media (max-width: 768px) {\n    h1 {\n      font-size: 32px;\n    }\n    h2 {\n      font-size: 26px;\n    }\n    .plans-grid {\n      grid-template-columns: 1fr;\n    }\n    main {\n      padding: 15px;\n    }\n    p, ul, ol {\n      font-size: 15px;\n    }\n  }\n</style>\n\n\n<main>\n<h1>小火箭分享</h1>\n<section>\n<h2>品牌简介</h2>\n<p>小火箭分享是一个专注于机场订阅和VPN网络加速的平台，致力于为用户提供高速稳定、安全可靠的网络解决方案。通过小火箭分享，您可以轻松突破地域限制，享受流畅的网络体验。</p>\n<p>作为官方下载和客户端平台，我们提供多种流量套餐和专业支持。</p>\n</section>\n<section>\n<h2>使用场景</h2>\n<p>小火箭分享适用于多种网络需求：</p>\n<ul>\n<li>高清流媒体解锁：Netflix、YouTube、Disney+ 等平台</li>\n<li>在线游戏加速：降低延迟，提升竞技体验</li>\n<li>大文件下载加速：大幅提高下载速度</li>\n<li>远程办公和视频会议：稳定连接不中断</li>\n<li>科学上网：访问被屏蔽的网站</li>\n</ul>\n</section>\n<section>\n<h2>套餐选择</h2>\n<div class=\"plans-grid\">\n<div class=\"plan-card\">\n<h3 class=\"plan-name\">基础版</h3>\n<div class=\"plan-price\">¥15/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n<ul class=\"features\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"plan-card featured\">\n<h3 class=\"plan-name\">旗舰版</h3>\n<div class=\"plan-price\">¥35/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n<ul class=\"features\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"plan-card\">\n<h3 class=\"plan-name\">团队版</h3>\n<div class=\"plan-price\">¥85/月</div>\n<div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n<ul class=\"features\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</div>\n<a href=\"#download\" class=\"btn\">立即下载客户端</a>\n</section>\n<section>\n<h2>操作说明</h2>\n<h3>步骤一：选择套餐</h3>\n<p>根据您的需求选择适合的流量和设备套餐。</p>\n<h3>步骤二：下载客户端</h3>\n<p>点击上方按钮下载官方客户端，支持多平台。</p>\n<h3>步骤三：安装配置</h3>\n<p>安装后使用账号登录，连接加速节点即可使用。</p>\n<h3>步骤四：享受加速</h3>\n<p>选择优质节点，享受高速稳定网络。</p>\n</section>\n<section>\n<h2>常见问题</h2>\n<details>\n<summary>小火箭分享是什么？</summary>\n<p>小火箭分享是一个专业的VPN加速器和机场订阅平台，提供官方客户端下载和多种流量套餐，帮助用户实现网络加速。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>基础版适合个人日常使用，旗舰版适合重度用户，团队版适合企业或多设备用户。</p>\n</details>\n<details>\n<summary>客户端如何下载？</summary>\n<p>访问官网，点击“立即下载客户端”按钮，获取适用于Windows、Mac、Android、iOS的最新版本。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>基础版支持3台，旗舰版支持5台，团队版支持20台同时在线。</p>\n</details>\n<details>\n<summary>流量如何使用？</summary>\n<p>每月包含固定GB高速流量，超出后可续费或调整套餐。</p>\n</details>\n<details>\n<summary>有试用期吗？</summary>\n<p>目前暂无免费试用，请根据需求选择对应套餐。</p>\n</details>\n</section>\n<section id=\"download\">\n<h2>客户端下载</h2>\n<p>点击下方按钮下载官方客户端：</p>\n<a href=\"#\" class=\"btn\">立即下载客户端</a>\n</section>\n<footer>\n<p>© 2024 小火箭分享 保留所有权利</p>\n<div class=\"footer-links\">\n<a href=\"#\">友情链接</a>\n<a href=\"#\">广告合作</a>\n</div>\n</footer>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "344790862eead18b41462d20972561337aab9c04b67a2b0410656bcad0ed62f8",
+          "seo": {
+            "title": "小火箭分享 - 机场订阅 VPN加速器 官方客户端下载",
+            "keywords": "小火箭分享,机场, VPN, 加速器, 客户端下载, 网络加速, 流媒体解锁",
+            "description": "小火箭分享提供专业的机场订阅和VPN网络加速服务，官方客户端下载，多种流量套餐助力您畅享高速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "909na3.cn",
+    "host": "p-35214b0f16.909na3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "456c66a8c5d2c87e328512d0e5f246c72d0068bc211612158dcb0fe3c8042150",
+    "sitemap.xml": "0e090b1137a2d94c7e060ebf3cd9558db44d8cae4c4e48e133342fc2879a0f59",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "25adf063ce8a79d1eb41b58b99d4cd30b57b249cab2d20e4d54b8dfae7da786a",
+    "robots.txt": "9ce2f8a150725146f81cd103a617933c07caf558d06ef4361e53a4e4902c3c29",
+    "333f03f35a96b4e2e33a0e6a99453ac7.txt": "024aa40ee118081471fae3799c4e71da86143c3c97880f556ec6752f0ffcc1e4"
+  },
+  "revision": "0efa5f08a43d691a8dc72f9e8e9297fe4c796e497f543b08b7fe43c12e095ca8"
+}
